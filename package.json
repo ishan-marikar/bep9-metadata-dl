@@ -23,9 +23,9 @@
   "license": "MIT",
   "dependencies": {
     "bencode": "^0.10.0",
-    "bittorrent-dht": "^7.4.0",
-    "bittorrent-protocol": "^2.1.6",
-    "torrent-discovery": "^8.1.1",
-    "ut_metadata": "^3.0.8"
+    "bittorrent-dht": "^7.7.0",
+    "bittorrent-protocol": "^2.3.0",
+    "torrent-discovery": "^8.4.0",
+    "ut_metadata": "^3.1.0"
   }
 }
