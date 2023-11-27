@@ -25,7 +25,7 @@
     "bencode": "^0.10.0",
     "bittorrent-dht": "^7.4.0",
     "bittorrent-protocol": "^2.1.6",
-    "torrent-discovery": "^8.1.1",
+    "torrent-discovery": "^8.3.0",
     "ut_metadata": "^3.0.8"
   }
 }
